@@ -1,7 +1,7 @@
   body{
   background-color: #FF0080;
   font-family: "Helvetica";
-  
+
 }
 ::-webkit-scrollbar {
     height: 12px;
@@ -45,17 +45,26 @@
     position: relative;
     min-height: 350px;
     border-bottom: #EB0177;
-    padding-top: 9em;
+    padding-top: 4em;
     background-color: #FF0080;
     background: url("test2.JPG") no-repeat scroll 0px 100% / cover transparent;
     box-shadow: 0 10px rgba(199, 188, 188, 0.59);
-    
+
 }
+
 .tag-line{
-	 color:#C0C0C0;
-	 font-family: 'Didact Gothic', sans-serif;
+  color:#FAE0E0;
+  font-family: "Bevan",'Didact Gothic', sans-serif;
+  font-size:80px;
+  text-shadow: 4px 3px 0px #, 9px 8px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+.tag-line2{
+	 color:#FAE0E0;
+	 font-family: 'Didact Gothic',"Merriweather Sans","Bevan" sans-serif;
 	 font-size:50px;
-	 text-shadow: 0 0 1px rgba(0,0,0,0.05),0 1px 2px rgba(0,0,0,0.3);;
+	 text-shadow: 0 0 1px rgba(0,0,0,0.05),0 1px 2px rgba(0,0,0,0.3);
 }
 .col-md-8 .col-md-offset-2{
   padding-left: 15px;
@@ -103,7 +112,11 @@
 
 .footer-info{
   color:#F2A1F4;
-  
+
+}
+
+.row.fixed{
+  margin-right: 0px;
 }
 
 .row.test1{
@@ -112,7 +125,7 @@
 .col-md-2>p{
 	color:#F2A1F4
 }
-	
+
 a{
   color:#F2A1F4;
 }
