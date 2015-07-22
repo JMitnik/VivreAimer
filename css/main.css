@@ -121,8 +121,26 @@
   font-size: 30px;
 
 }
-blockquote{
-  border-left:0px;
+blockquote {
+  border-left: 10px solid #FF0A85;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #FF0A85;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+#quotesource{
+  color:#FF0A85;
+  font-size:15px;
 }
 .row.fixed{
   margin-right: 0px;
