@@ -55,7 +55,7 @@
             function ScaleSlider() {
                 var parentWidth = jssor_slider1.$Elmt.parentNode.clientWidth;
                 if (parentWidth)
-                    jssor_slider1.$ScaleWidth(Math.min(parentWidth,1000));
+                    jssor_slider1.$ScaleWidth(Math.min(parentWidth,600));
                 else
                     window.setTimeout(ScaleSlider, 30);
             }
