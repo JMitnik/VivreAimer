@@ -16,7 +16,9 @@
 ::-webkit-scrollbar-corner {
     background: #000;
 }
-
+.txtpp{
+  margin-left: 40px;
+}
 .navbar.navbar-default{
   background-color: transparent;
   border:0px;
@@ -120,6 +122,9 @@
   color: #FF0A85;
   font-size: 30px;
 
+}
+.frontcontent{
+  margin-bottom: 20px;
 }
 blockquote {
   border-left: 10px solid #FF0A85;
