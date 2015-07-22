@@ -11,6 +11,8 @@
   <link rel="stylesheet" href="css/main.css"
   <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="css/favicon.ico" sizes="192x192">
+<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 </head>
 <body>
   <nav class="navbar navbar-default">
@@ -41,7 +43,7 @@
       </ul>
     <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Talen<i class="fa fa-globe"></i><b class="caret"></b></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Talen <i class="fa fa-globe"></i><b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a href="#">English</a></li>
             <li><a href="#">Nederlands</a></li>
@@ -119,40 +121,41 @@
         </div>
         </div>
       <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-9 col-md-offset-2">
    
           <h3>In general parlance, bootstrapping usually refers to the starting of a self-sustaining process that is supposed to proceed without external input. In computer technology the term (usually shortened to booting) usually refers to the process of loading the basic software into the memory of a computer after power-on or general reset, especially the operating system which will then take care of loading other software as needed.</h3>
 
-          <h3>Tall boots may have a tab, loop or handle at the top known as a bootstrap, allowing one to use fingers or a boot hook tool to help pulling the boots on. The saying "to pull oneself up by one's bootstraps" was already in use during the 19th century as an example of an impossible task. The idiom dates at least to 1834, when it appeared in the Workingman's Advocate: "It is conjectured that Mr. Murphee will now be enabled to hand himself over the Cumberland river or a barn yard fence by the straps of his boots." In 1860 it appeared in a comment on metaphysical philosophy: "The attempt of the mind to analyze itself [is] an effort analogous to one who would lift himself by his own bootstraps." Bootstrap as a metaphor, meaning to better oneself by one's own unaided efforts, was in use in 1922. This metaphor spawned additional metaphors for a series of self-sustaining processes that proceed without external help.</h3>
-
-          <h3>The term is sometimes attributed to Rudolf Erich Raspe's story The Surprising Adventures of Baron Munchausen, where the main character pulls himself (and his horse) out of a swamp by his hair (specifically, his pigtail), but Baron Münchhausen (1720–1797), a recounter of tall tales, does not, in fact, pull himself out by his bootstraps – and there's no sign that anyone has found an explicit reference to bootstraps in the various versions of the Munchausen tales.</h3>
+          <h4>Blablabla</h4>
         </div>
 
       </div>
     </div>
+    </div>
    <div class="footer">
       <div class="container">
         <div class="row">
-          <div class="col-md-2 col-md-offset-1 footer-info">
-            <a href="#"><i class="fa fa-facebook-square"></i> Facebook</a>
+          <div class="col-md-2 col-md-offset-1 footer-info"><strong>
+            <a href="https://www.facebook.com/patricia.quessada.9" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
           </div>
           <div class="col-md-2 footer-info" >
-            <a href="#"><i class="fa fa-linkedin-square"></i> Linkedin</a>
+            <a href="https://www.linkedin.com/pub/patricia-quessada/18/a83/199" target="_blank"><i class="fa fa-linkedin-square"></i> Linkedin</a>
           </div>
           <div class="col-md-3 footer-info">
-            <a href="mailto:vivreetaimercoaching@gmail.com"><i class="fa fa-envelope-o"></i> vivreetaimercoaching@gmail.com</a>
+            <a href="mailto:vivreetaimercoaching@gmail.com" target="_blank"><i class="fa fa-envelope-o"></i> vivreetaimercoaching@gmail.com</a>
           </div>
           <div class="col-md-2 footer-info">
             <a href="#"><i class="fa fa-mobile"></i> 06-1234567</a>
-          </div>
-          <div class="col-md-2"> 
-            <p>Bieen</p>
-            <p>Straatadres 2002</p>
-            <p>Oudekerk aan de </p>
+          </strong></div>
+          <div class="col-md-2" id='adress'> 
+            <p><i class="fa fa-home"></i> <strong><a href="https://www.google.nl/maps/place/Frans+Hals,+1191+Ouderkerk+aan+de+Amstel/@52.3036563,4.8894213,12z/data=!4m2!3m1!1s0x47c60b074e7dea8b:0x551c7d6b8578d814" target='_blank'>Adres</strong></a></p>
+            <p>Frans Hals 16</p>
+            <p>1191WD, Ouderkerk aan de Amstel</p>
+
           </div>
         </div>
     </div>
 </div>
+
 
 
 
