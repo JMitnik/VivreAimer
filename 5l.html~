@@ -31,15 +31,15 @@
         </button>
 
         <!--this is where the brand rests-->
-      <a class="navbar-brand" href="index.html"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
-     <a class="navbar-brand" href="index.html">Vivre &amp; Aimer</a>
-      <a class="navbar-brand" href="index.html"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
+      <a class="navbar-brand" href="#"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
+     <a class="navbar-brand" href="#">Vivre &amp; Aimer</a>
+      <a class="navbar-brand" href="#"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
       </div><!--/.navbar head-->
 
 
     <div class="collapse navbar-collapse" id = "viv-navbar">
       <ul class="nav navbar-nav">
-        <li class="current"><a href="index.html">Home</a></li>
+        <li class="current"><a href="#">Home</a></li>
         <li class="divider-vertical"></li>
         <li><a href="#">Lifecoaching</a></li>
         <li><a href="#">5 leefomgevingen</a></li>
@@ -63,11 +63,16 @@
 
 
   </nav><!--/.navbar-->
-  <div class="splash-bar">
+  <div class="splash-screen">
     <div class="container-fluid">
       <div class = "row">
-        <div class="col-md-10 col-md-offset-2 ">
-          <h1 class="tag-bar">5 Leefomgevingen</h1>
+        <div class="col-md-6 col-md-offset-2 ">
+          <h1 class="tag-line">Vivre &amp; Aimer</h1>
+        </div>
+      </div>
+      <div class = "row">
+        <div class="col-md-6 col-md-offset-6">
+          <h2 class = "tag-line2">Vrij zijn...om te Zijn</h1>
         </div>
       </div>
     </div>
