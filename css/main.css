@@ -115,6 +115,15 @@
 
 }
 
+.quotetype{
+  font-family: 'Lobster',cursive;
+  color: #FF0A85;
+  font-size: 30px;
+
+}
+blockquote{
+  border-left:0px;
+}
 .row.fixed{
   margin-right: 0px;
 }
