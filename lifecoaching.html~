@@ -39,11 +39,11 @@
     
     <div class="collapse navbar-collapse" id = "viv-navbar">
       <ul class="nav navbar-nav"> 
-        <li class="current"><a href="index.html">Home</a></li>
+        <li class="current"><a href="#">Home</a></li>
         <li class="divider-vertical"></li>
-        <li><a href="lifecoaching.html">Lifecoaching</a></li>
-        <li><a href="overmij.html">Over mij</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="#">Lifecoaching</a></li>
+        <li><a href="5l.html">5 leefomgevingen</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
     <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
