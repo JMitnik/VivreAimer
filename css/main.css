@@ -89,7 +89,7 @@ li>a{
 .navbar .navbar-collapse {
   text-align: center;
 }
-.container-fluid.doc{
+.main-content.doc{
   background-color: #ffeded;
     -webkit-box-shadow: 0px 3px 0px 3px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 3px 0px 3px rgba(0,0,0,0.75);
@@ -199,3 +199,7 @@ a{
   h3{
   font-family: 'PT Serif', serif;
   }
+
+.lf-light{
+  background-color: #ffeded;
+}
