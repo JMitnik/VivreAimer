@@ -57,7 +57,7 @@ li>a{
     padding-top: 4em;
     background-color: #FF0080;
     background: url("test2.JPG") no-repeat scroll 0px 100% / cover transparent;
-    box-shadow: 0 10px rgba(199, 188, 188, 0.59);
+    box-shadow: 0 10px rgb(255, 219, 219);
 
 }
 
@@ -204,4 +204,8 @@ a{
 
 .dark{
   background-color: #FFDBDB;
+}
+
+.item{
+  quotes: "\201C""\201D""\2018""\2019";
 }
