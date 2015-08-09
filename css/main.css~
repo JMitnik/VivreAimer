@@ -16,9 +16,12 @@
 ::-webkit-scrollbar-corner {
     background: #000;
 }
-
+.txtpp{
+  margin-left: 40px;
+}
 .navbar.navbar-default{
   background-color: transparent;
+  height:;
   border:0px;
   margin-bottom: 0px;
   border-bottom: 1px solid #EB0177;
@@ -35,6 +38,12 @@
     color:#fbfbfb;
 }
 
+.navbar-header>a{
+  font-size:22.5px;
+}
+li>a{
+  font-size: 22.5px;
+}
 .page-start{
   background-color: #fbfbfb;
   border:1px solid #efefef;
@@ -43,7 +52,7 @@
 .splash-screen {
  color: rgb(255, 255, 255);
     position: relative;
-    min-height: 350px;
+    min-height: 250px;
     border-bottom: #EB0177;
     padding-top: 4em;
     background-color: #FF0080;
@@ -118,8 +127,11 @@
 .quotetype{
   font-family: 'Lobster',cursive;
   color: #FF0A85;
-  font-size: 30px;
+  font-size: 30px;  `
 
+}
+.frontcontent{
+  margin-bottom: 20px;
 }
 blockquote {
   border-left: 10px solid #FF0A85;
@@ -136,7 +148,7 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 blockquote p {
-  display: inline;
+  display: inline;@
 }
 #quotesource{
   color:#FF0A85;
@@ -183,4 +195,7 @@ a{
   }
   .col-md-8>#slider1_container{
     margin-top: 20px;
+  }
+  h3{
+  font-family: 'PT Serif', serif;
   }
