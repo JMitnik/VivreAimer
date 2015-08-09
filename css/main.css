@@ -164,7 +164,9 @@ blockquote p {
 .col-md-2>p{
 	color:#F2A1F4
 }
-
+p {
+    margin: 0 0 0px;
+}
 a{
   color:#F2A1F4;
 }
