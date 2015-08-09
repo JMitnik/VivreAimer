@@ -16,6 +16,7 @@
 <link href='http://fonts.googleapis.com/css?family=Bevan' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,800italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
 </head>
 <body>
   <nav class="navbar navbar-default">
@@ -41,7 +42,7 @@
         <li class="current"><a href="#">Home</a></li>
         <li class="divider-vertical"></li>
         <li><a href="#">Lifecoaching</a></li>
-        <li><a href="#">5 leefomgevingen</a></li>
+        <li><a href="5l.html">5 leefomgevingen</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
     <ul class="nav navbar-nav navbar-right">
@@ -65,7 +66,7 @@
   <div class="splash-screen">
     <div class="container-fluid">
       <div class = "row">
-        <div class="col-md-6 col-md-offset-2">
+        <div class="col-md-6 col-md-offset-2 ">
           <h1 class="tag-line">Vivre &amp; Aimer</h1>
         </div>
       </div>
@@ -87,12 +88,12 @@
         </div>
       </div
       <div class="row fixed">
-<div class="col-md-9 col-md-offset-2">
+<div class="col-md-10 col-md-offset-2 frontcontent">
     <div class ='row slider'>
-    <div class="col-md-8 col-md-offset-0">
+    <div class="col-md-10 col-md-offset-0">
      <!-- Jssor Slider Begin -->
     <!-- To move inline styles to css file/block, please specify a class name for each element. -->
-    <div id="slider1_container" style=" border-radius: 15px 50px 30px;position: relative; top: 0px; left: 0px; width: 600px; height: 300px; overflow: hidden; ">
+    <div id="slider1_container" style=" float:left;border-radius: 15px 50px 30px;position: relative; top: 0px; left: 0px; width: 600px; height: 300px; overflow: hidden; margin-right:5% ">
 
         <!-- Loading Screen -->
         <div u="loading" style="position: absolute; top: 0px; left: 0px;">
@@ -107,40 +108,26 @@
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 600px; height: 300px; overflow: hidden;">
             <div>
-                <img u="image" src="Slider/img/landscape/02.jpg" />
+                <img u="image" src="img/afb0.jpg" />
             </div>
             <div>
-                <img u="image" src="Slider/img/landscape/03.jpg" />
+                <img u="image" src="img/afb1.jpg" />
             </div>
             <div>
-                <img u="image" src="Slider/img/landscape/04.jpg" />
+                <img u="image" src="img/afb2.jpg" />
             </div>
             <div>
-                <img u="image" src="Slider/img/landscape/05.jpg" />
+                <img u="image" src="img/afb3.jpg" />
             </div>
             <div>
-                <img u="image" src="Slider/img/landscape/06.jpg" />
-            </div>
-            <div>
-                <img u="image" src="Slider/img/landscape/07.jpg" />
-            </div>
-            <div>
-                <img u="image" src="Slider/img/landscape/08.jpg" />
-            </div>
-            <div>
-                <img u="image" src="Slider/img/landscape/09.jpg" />
-            </div>
-            <div>
-                <img u="image" src="Slider/img/landscape/10.jpg" />
-            </div>
-            <div>
-                <img u="image" src="Slider/img/landscape/11.jpg" />
+                <img u="image" src="img/afb4.jpg" />
             </div>
         </div>
         </div>
+        <h3 class="txtpp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dolor sollicitudin dolor venenatis scelerisque sit amet sit amet mauris. Donec varius ante sapien, quis porttitor leo dapibus a. Proin nibh magna, congue in sem nec, auctor hendrerit nulla. In sed eros tellus. Aliquam eu tempor eros, et euismod lectus. Suspendisse potenti
+        </h3>
+
         </div>
-<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dolor sollicitudin dolor venenatis scelerisque sit amet sit amet mauris. Donec varius ante sapien, quis porttitor leo dapibus a. Proin nibh magna, congue in sem nec, auctor hendrerit nulla. In sed eros tellus. Aliquam eu tempor eros, et euismod lectus. Suspendisse potenti. Nulla malesuada neque posuere risus facilisis, at tincidunt ligula rhoncus. Cras massa neque, varius eu tincidunt eget, laoreet in est. Sed nec vestibulum sem, ullamcorper ultrices metus. Maecenas augue sapien, mollis at vulputate vel, lacinia a augue. Donec interdum elit ut felis luctus, ac consequat odio suscipit. Quisque tristique, nibh vitae ullamcorper pellentesque, risus sapien interdum nulla, vel suscipit nisi urna ut neque.
-</h3>
 
         </div>
 
