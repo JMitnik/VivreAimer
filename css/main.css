@@ -21,6 +21,7 @@
 }
 .navbar.navbar-default{
   background-color: transparent;
+  height:20px;        
   border:0px;
   margin-bottom: 0px;
   border-bottom: 1px solid #EB0177;
@@ -45,7 +46,7 @@
 .splash-screen {
  color: rgb(255, 255, 255);
     position: relative;
-    min-height: 350px;
+    min-height: 250px;
     border-bottom: #EB0177;
     padding-top: 4em;
     background-color: #FF0080;
@@ -120,7 +121,7 @@
 .quotetype{
   font-family: 'Lobster',cursive;
   color: #FF0A85;
-  font-size: 30px;
+  font-size: 30px;  `
 
 }
 .frontcontent{
@@ -141,7 +142,7 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 blockquote p {
-  display: inline;
+  display: inline;@
 }
 #quotesource{
   color:#FF0A85;
