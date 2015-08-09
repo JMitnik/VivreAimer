@@ -21,7 +21,7 @@
 }
 .navbar.navbar-default{
   background-color: transparent;
-  height:20px;        
+  height:;
   border:0px;
   margin-bottom: 0px;
   border-bottom: 1px solid #EB0177;
@@ -38,6 +38,12 @@
     color:#fbfbfb;
 }
 
+.navbar-header>a{
+  font-size:22.5px;
+}
+li>a{
+  font-size: 22.5px;
+}
 .page-start{
   background-color: #fbfbfb;
   border:1px solid #efefef;
@@ -54,27 +60,11 @@
     box-shadow: 0 10px rgba(199, 188, 188, 0.59);
 
 }
-.splash-bar {
- color: rgb(255, 255, 255);
-    position: relative;
-    min-height: 100px;
-    border-bottom: #EB0177;
-    padding-top: 4em;
-    background-color: #FF0080;
-    background: url("test2.JPG") no-repeat scroll 0px 100% / cover transparent;
-    box-shadow: 0 10px rgba(199, 188, 188, 0.59);
 
-}
 .tag-line{
   color:#FAE0E0;
   font-family: "Bevan",'Didact Gothic', sans-serif;
   font-size:80px;
-  text-shadow: 4px 3px 0px #, 9px 8px 0px rgba(0, 0, 0, 0.15);
-}
-.tag-bar{
-  color:#FAE0E0;
-  font-family: "Bevan",'Didact Gothic', sans-serif;
-  font-size:50px;
   text-shadow: 4px 3px 0px #, 9px 8px 0px rgba(0, 0, 0, 0.15);
 }
 
