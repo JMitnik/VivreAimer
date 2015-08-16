@@ -241,6 +241,7 @@ div.first.light{
 }
 .buttonlight{
 	background-color:#ffeded;
+	    border-color: #ffeded;
 }
 .buttonlight:hover {
   background-color: #FFDBDB;
