@@ -44,6 +44,10 @@
 li>a{
   font-size: 22.5px;
 }
+.exampl{
+  max-width: 10;
+  max-height:10;
+}
 .page-start{
   background-color: #fbfbfb;
   border:1px solid #efefef;
