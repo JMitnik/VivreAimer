@@ -255,3 +255,7 @@ div.first.light{
 .popover{
     background: #87AFC7;
 }
+
+.buttonlight:hover{
+  color: #FF0080;
+}
