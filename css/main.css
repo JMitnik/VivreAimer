@@ -212,17 +212,17 @@ div.first.light{
 }
 
 .light{
-  cursor: pointer;
+
 } 
 
-.light:hover{
-  border:1px solid  #FF0080;
+.qtag:hover{
+  cursor: pointer;
+  color:  #FF0080;
 }
 
 .dark{
   background-color: #FFDBDB;
 }
-<<<<<<< HEAD
 .row1{
 	border-style:solid;
 	border-width:6px;
@@ -236,9 +236,21 @@ div.first.light{
 .row1header>p{
 	margin-left:30px;
 }
-=======
-
 .item{
   quotes: "\201C""\201D""\2018""\2019";
 }
->>>>>>> origin/Homepage
+.buttonlight{
+	background-color:#ffeded;
+}
+.buttonlight:hover {
+  background-color: #FFDBDB;
+}
+.buttonlight:focus {
+  background-color: #FFDBDB;
+}	
+.popover-title{
+    background: #6495ED;
+}
+.popover{
+    background: #87AFC7;
+}
