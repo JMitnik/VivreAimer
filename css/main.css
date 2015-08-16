@@ -206,6 +206,19 @@ a{
   font-family: 'PT Serif', serif;
   }
 
+
+div.first.light{
+  margin-top: 10px;
+}
+
+.light{
+  cursor: pointer;
+} 
+
+.light:hover{
+  border:1px solid  #FF0080;
+}
+
 .dark{
   background-color: #FFDBDB;
 }

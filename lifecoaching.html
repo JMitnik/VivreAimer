@@ -12,6 +12,9 @@
   <script language="javascript" type="text/javascript" src="jsquery.js"></script>
   <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" ></script>
+  <script src="js/bootstrap.min.js" ></script>
 <link rel="icon" type="image/png" href="css/favicon.ico" sizes="192x192">
 <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Bevan' rel='stylesheet' type='text/css'>
@@ -83,13 +86,25 @@
   <!--container start-->
 
     <div class="container-fluid main-content doc">
-      <div class="row light">
+      <div class="first row light" data-toggle="collapse" data-target="#viewdetails">
         <div class="col-md-7 col-md-offset-5">
           <h3><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wat<br>...is een coach?</strong></h3>
         </div>
         <div class="col-md-3 col-md-offset-3">
-                  <p><a class="btn" data-toggle="collapse" data-target="#viewdetails">Dingen om over na te denken <span class="glyphicon glyphicon-arrow-down"></span></a></p>
-           <p class="collapse" id="viewdetails">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p><a class="btn" data-toggle="collapse" data-target="#viewdetails">Dingen om over na te denken <span class="glyphicon glyphicon-arrow-down"></span></a></p>
+            <div class="collapse" id="viewdetails">
+            <div class="row">
+              <div class="col-md-4">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, quisquam.</p>
+              </div>
+              <div class="col-md-4">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat, saepe!</p>
+              </div>
+              <div class="col-md-4">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, in.</p>
+              </div>
+            </div>
+           </div>
       </div>     
     </div>
 
@@ -190,11 +205,6 @@
 
 
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" ></script>
-  <script src="js/bootstrap.min.js" ></script>
-  <script type="text/javascript" src="Slider/js/jssor.js"></script>
-  <script type="text/javascript" src="Slider/js/jssor.slider.js"></script>
-  <script type="text/javascript" src="js/slider.js"></script>
 
 </body>
 </html>
