@@ -89,7 +89,7 @@ li>a{
 .navbar .navbar-collapse {
   text-align: center;
 }
-.container-fluid.doc{
+.main-content.doc{
   background-color: #ffeded;
     -webkit-box-shadow: 0px 3px 0px 3px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 3px 0px 3px rgba(0,0,0,0.75);
@@ -164,7 +164,9 @@ blockquote p {
 .col-md-2>p{
 	color:#F2A1F4
 }
-
+p {
+    margin: 0 0 0px;
+}
 a{
   color:#F2A1F4;
 }
@@ -199,3 +201,20 @@ a{
   h3{
   font-family: 'PT Serif', serif;
   }
+
+.dark{
+  background-color: #FFDBDB;
+}
+.row1{
+	border-style:solid;
+	border-width:6px;
+	border-top-width:25px;
+	border-color:#FF0F0F;
+}
+.row1header{
+	border-bottom-style: solid;
+	border-color:#FF0F0F;
+}
+.row1header>p{
+	margin-left:30px;
+}
