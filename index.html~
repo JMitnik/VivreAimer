@@ -8,15 +8,20 @@
   <title>Vivre et Aimer</title>
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/main.css"
+  <link rel="stylesheet" href="css/main.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" ></script>
+  <script src="js/bootstrap.min.js" ></script>
+  <script type="text/javascript" src="Slider/js/jssor.js"></script>
+  <script type="text/javascript" src="Slider/js/jssor.slider.js"></script>
+  <script type="text/javascript" src="js/slider.js"></script>
   <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="css/favicon.ico" sizes="192x192">
-<link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Bevan' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,800italic' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+  <link rel="icon" type="image/png" href="css/favicon.ico" sizes="192x192">
+  <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bevan' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,800italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
 </head>
 <body>
   <nav class="navbar navbar-default">
@@ -180,16 +185,5 @@ document.write("<footer id=quotesource>" + authors[index] + "</footer>\n");
         </div>
     </div>
 </div>
-
-
-
-
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" ></script>
-  <script src="js/bootstrap.min.js" ></script>
-  <script type="text/javascript" src="Slider/js/jssor.js"></script>
-  <script type="text/javascript" src="Slider/js/jssor.slider.js"></script>
-  <script type="text/javascript" src="js/slider.js"></script>
-
 </body>
 </html>
