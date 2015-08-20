@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--/.bootstrap necessities-->
+    <!--/.bootstrap necessities/fonts/css/js files-->
   <title>Vivre et Aimer</title>
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -82,12 +82,13 @@
       </div>
     </div>
   </div>
+  
     <div class="container-fluid main-content doc">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <blockquote>
                   <script type="text/javascript">
-//store the quotations in arrays
+//store the quotations in arrays->VERANDER QUOTES HIER.
 quotes = [];
 authors = [];
 quotes[0] = "I have a new philosophy. I'm only going to dread one day at a time.";

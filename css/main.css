@@ -127,7 +127,9 @@ li>a{
   color:#F2A1F4;
 
 }
-
+.footer-begin{
+	color:#F2A1F4;
+}
 .quotetype{
   font-family: 'Lobster',cursive;
   color: #FF0A85;
@@ -244,7 +246,7 @@ div.first.light{
 	border-color: #ffeded;
 }
 .buttonlight:hover {
-  background-color: #FFDBDB;
+  background-color: #ffeded;
   color: #FF0080;
 }
 .buttonlight:focus {
@@ -255,4 +257,15 @@ div.first.light{
 }
 .popover{
     background: #87AFC7;
+}
+.buttondark{
+	background-color:#FFDBDB;
+	border-color: #FFDBDB;
+}
+.buttondark:hover {
+  background-color: #FFDBDB;
+  color: #FF0080;
+}
+.buttondark:focus {
+  background-color: #FFDBDB;
 }

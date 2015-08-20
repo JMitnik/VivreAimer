@@ -241,10 +241,11 @@ div.first.light{
 }
 .buttonlight{
 	background-color:#ffeded;
-	    border-color: #ffeded;
+	border-color: #ffeded;
 }
 .buttonlight:hover {
   background-color: #FFDBDB;
+  color: #FF0080;
 }
 .buttonlight:focus {
   background-color: #FFDBDB;
@@ -254,8 +255,4 @@ div.first.light{
 }
 .popover{
     background: #87AFC7;
-}
-
-.buttonlight:hover{
-  color: #FF0080;
 }
