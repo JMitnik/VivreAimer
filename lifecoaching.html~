@@ -9,7 +9,11 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" href="css/main.css">
-  <script language="javascript" type="text/javascript" src="jsquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" ></script>
+
+    <script language ="javascript" type="text/javascript" src="jsquery.js"></script>
+  <script src="js/bootstrap.min.js" ></script>
+
   <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="css/favicon.ico" sizes="192x192">
@@ -20,7 +24,10 @@
 <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <nav class="navbar navbar-default">
+
+
+
+ <nav class="navbar navbar-default">
     <div class="container">
       <div class="navbar-header">
         <!---done to make it resposnive for smaller screens-->
@@ -32,19 +39,19 @@
         </button>
 
         <!--this is where the brand rests-->
-      <a class="navbar-brand" href="#"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
-     <a class="navbar-brand" href="#">Vivre &amp; Aimer</a>
-      <a class="navbar-brand" href="#"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
+      <a class="navbar-brand" href="index.html"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
+     <a class="navbar-brand" href="index.html">Vivre &amp; Aimer</a>
+      <a class="navbar-brand" href="index.html"><img src='css/fleurdelis.png' heigth='20px' width='20px'</a>
       </div><!--/.navbar head-->
 
     
     <div class="collapse navbar-collapse" id = "viv-navbar">
       <ul class="nav navbar-nav"> 
-        <li class="current"><a href="#">Home</a></li>
+        <li><a href="index.html">Home</a></li>
         <li class="divider-vertical"></li>
-        <li><a href="#">Lifecoaching</a></li>
-        <li><a href="5l.html">5 leefomgevingen</a></li>
-        <li><a href="#">Contact</a></li>
+        <li class="current"><a href="lifecoaching.html">Lifecoaching</a></li>
+        <li><a href="overmij.html">Over mij</a></li>
+        <li><a href="contact.html">Contact</a></li>
       </ul>
     <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
@@ -83,86 +90,101 @@
   <!--container start-->
 
     <div class="container-fluid main-content doc">
-      <div class="row light">
+      <div class="first row light">
         <div class="col-md-7 col-md-offset-5">
-          <h3><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wat<br>...is een coach?</strong></h3>
-          </div>
-        <div class="col-md-3 col-md-offset-3">
-                  <p><a class="btn" data-toggle="collapse" data-target="#viewdetails">Dingen om over na te denken <span class="glyphicon glyphicon-arrow-down"</span></a></p>
-           <p class="collapse" id="viewdetails">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      </div>
- 	</div>
-      </div>
-      
+          <h3 class="qtag"><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wat<br>...is een coach? <span class="glyphicon glyphicon-menu-down"></span></strong></h3>
+          
+        </div>
+                  
+        <div class="collapse" id="viewdetails">
+
+            <div class="col-md-2 col-md-offset-2">
+              <button type="button" class="btn btn-default buttonlight" data-trigger="focus" data-container="body" data-toggle="popover" data-placement="bottom" title="Een Gids" data-content="Vivamus
+              sagittis lacus vel augue laoreet rutrum faucibus.">
+              <h4>Een Gids </h4>
+              </button>
+            </div>
+            <div class="col-md-3">
+              <button type="button" class="btn btn-default buttonlight" data-trigger="focus" data-container="body" data-toggle="popover" data-placement="bottom" title="Als begeleider op pad naar jezelf" data-content="Vivamus
+              sagittis lacus vel augue laoreet rutrum faucibus.">
+              <h4>Helpen zoeken naar je ware ik </h4>
+              </button>
+            </div>
+            <div class="col-md-3 col-md-offset-1">
+              <button type="button" class="btn btn-default buttonlight" data-trigger="focus" data-container="body" data-toggle="popover" data-placement="bottom" title="Geen therapaut" data-content="Vivamus
+              sagittis lacus vel augue laoreet rutrum faucibus.">
+              <h4>Het is geen therapaut </h4>
+              </button>
+            </div>
+         </div>
+      </div>     
+
       <div class="row dark">
         <div class="col-md-7 col-md-offset-5">
-          <h3><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Waarom<br>...een coach?</strong></h3>
+          <h3 class="qtag"><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Waarom<br>&nbsp;&nbsp;&nbsp;&nbsp ...een coach?</strong></h3>
         </div>
 
           <div class="col-md-3 col-md-offset-3">
-            <h3>ererwer</h3>
+            <h4>Textr</h4>
           </div>
           <div class="col-md-3">
-            <h3>ererwer</h3>
+            <h4>Text</h4>
           </div>
           <div class="col-md-3">
-            <h3>ererwer</h3>
+            <h4>Text</h4>
           </div>
       </div>
 
       <div class="row light">
         <div class="col-md-7 col-md-offset-5">
-          <h3><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wie<br>...ben ik?</strong></h3>
+          <h3 class="qtag"><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wie<br>...ben ik?</strong></h3>
         </div>
-        <div class="col-md-2 col-md-offset-3"><h3>eerew</h3></div>
-        <div class="col-md-2"><h3>erewr</h3></div>
-        <div class="col-md-2"><h3>erwerwe</h3></div>
-        <div class="col-md-2"><h3>ewqfef</h3></div>
+        <div class="col-md-2 col-md-offset-3"><h4>Text</h4></div>
+        <div class="col-md-2"><h4>Text</h4></div>
+        <div class="col-md-2"><h4>Text</h4></div>
+        <div class="col-md-2"><h4>Text</h4></div>
       </div>
 
     <div class="row dark">
       <div class="col-md-7 col-md-offset-5">
-        <h3><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wanneer<br>...een coach?</strong></h3>
+        <h3 class="qtag"><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Wanneer<br>...een coach?</strong></h3>
       </div>
       <div class="col-md-2 col-md-offset-3">
-        <h3>SDASD</h3>
+        <h4>Text</h4>
       </div class="col-md-2">
       <div class="col-md-2">
-        <h3>dsfsd</h3>
+        <h4>Text</h4>
       </div class="col-md-2">
       <div class="col-md-2">
-        <h3>sdfs</h3>
+        <h4>Text</h4>
       </div class="col-md-2">
       <div class="col-md-2">
-        <h3>asdas</h3>
+        <h4>Text</h4>
       </div class="col-md-2">
     </div>
 
     <div class="row light">
       <div class="col-md-7 col-md-offset-5">
-        <h3><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Waar<br>...in mijn leven?</strong></strong></h3>
+        <h3 class="qtag"><strong>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Waar<br>...in mijn leven?</strong></h3>
       </div>
       <div class="col-md-2 col-md-offset-2">
-        <h3>WEwe</h3>
+        <h4>Text</h4>
       </div>
       <div class="col-md-2">
-        <h3>asdfsfds</h3>
+        <h4>Text</h4>
       </div>
       <div class="col-md-2">
-        <h3>asfdasfd</h3>
+        <h4>Text</h4>
       </div>
       <div class="col-md-2">
-        <h3>ewrtwet</h3>
+        <h4>Text</h4>
       </div>
       <div class="col-md-2">
-        <h3>adsfsadfas</h3>
+        <h4>Text</h4>
       </div>
     </div>
-
-
-    </div>
-
-
+  </div>
+  
 
 
    <div class="footer">
@@ -194,11 +216,6 @@
 
 
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" ></script>
-  <script src="js/bootstrap.min.js" ></script>
-  <script type="text/javascript" src="Slider/js/jssor.js"></script>
-  <script type="text/javascript" src="Slider/js/jssor.slider.js"></script>
-  <script type="text/javascript" src="js/slider.js"></script>
 
 </body>
 </html>
