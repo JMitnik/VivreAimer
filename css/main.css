@@ -241,31 +241,3 @@ div.first.light{
 .item{
   quotes: "\201C""\201D""\2018""\2019";
 }
-.buttonlight{
-	background-color:#ffeded;
-	border-color: #ffeded;
-}
-.buttonlight:hover {
-  background-color: #ffeded;
-  color: #FF0080;
-}
-.buttonlight:focus {
-  background-color: #FFDBDB;
-}	
-.popover-title{
-    background: #6495ED;
-}
-.popover{
-    background: #87AFC7;
-}
-.buttondark{
-	background-color:#FFDBDB;
-	border-color: #FFDBDB;
-}
-.buttondark:hover {
-  background-color: #FFDBDB;
-  color: #FF0080;
-}
-.buttondark:focus {
-  background-color: #FFDBDB;
-}
