@@ -181,6 +181,9 @@ a{
     .footer-info {
       margin-top:40px;
      }
+     .beeldje{
+      margin-top:500px;
+     }
 #adress{margin-top:40px}
      }
  @media(max-width:768px){
@@ -241,12 +244,11 @@ div.first.light{
 .item{
   quotes: "\201C""\201D""\2018""\2019";
 }
-<<<<<<< HEAD
+
 h1{
 font-family: 'Lora', serif;
 }
-=======
-<<<<<<< HEAD
+
 .buttonlight{
 	background-color:#ffeded;
 	border-color: #ffeded;
@@ -285,6 +287,8 @@ font-family: 'Lora', serif;
 .last-row{
   margin-bottom: 10px;
 }
-=======
->>>>>>> 0697d40d054976cba3dbd26fd58b32190a09ff1b
->>>>>>> origin/Homepage
+
+
+.beeldje{
+
+}
