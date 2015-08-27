@@ -241,3 +241,6 @@ div.first.light{
 .item{
   quotes: "\201C""\201D""\2018""\2019";
 }
+h1{
+font-family: 'Lora', serif;
+}
