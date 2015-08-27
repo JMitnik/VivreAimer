@@ -30,6 +30,10 @@
   color:#9C0063;
 
 }
+
+.navbar-inner{
+  min-height: 50px;
+}
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
     color:#fbfbfb;
 }
@@ -68,7 +72,7 @@ li>a{
 .tag-line{
   color:#FAE0E0;
   font-family: "Bevan",'Didact Gothic', sans-serif;
-  font-size:80px;
+  font-size:5em;
   text-shadow: 4px 3px 0px #, 9px 8px 0px rgba(0, 0, 0, 0.15);
 }
 
@@ -190,6 +194,9 @@ a{
    .footer-info {
     margin-top:10px;
   }
+  .tag-line{
+    font-size: 4em;
+  }
   }
 
 
@@ -246,6 +253,7 @@ div.first.light{
 }
 
 h1{
+
 font-family: 'Lora', serif;
      word-wrap: break-word;
      -webkit-hyphens: auto;
@@ -298,4 +306,40 @@ font-family: 'Lora', serif;
 
 .beeldje{
 
+}
+@media (max-width: 1030px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+    margin-top: 7.5px;
+  }
+  .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+      display:block !important;
+  }
 }
