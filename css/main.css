@@ -5,7 +5,7 @@
 }
 ::-webkit-scrollbar {
     height: 12px;
-	width: 12px;
+	width: 6px;
 	background: #34DDDD;
     }
 ::-webkit-scrollbar-thumb {
