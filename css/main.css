@@ -182,7 +182,7 @@ a{
       margin-top:40px;
      }
      .beeldje{
-      margin-top:500px;
+      margin-top: 500px;
      }
 #adress{margin-top:40px}
      }
@@ -247,6 +247,13 @@ div.first.light{
 
 h1{
 font-family: 'Lora', serif;
+     word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+
 }
 
 .buttonlight{
