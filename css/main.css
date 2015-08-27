@@ -269,3 +269,13 @@ div.first.light{
 .buttondark:focus {
   background-color: #FFDBDB;
 }
+
+.img-wrapper{
+    max-height: 20em;
+    max-width: 50%;
+    overflow: hidden;
+}
+
+.last-row{
+  margin-bottom: 10px;
+}
