@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"scr",
+				"SCRIPT	Tag"
+			],
+			[
+				"f",
+				"fun	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jonathan/Documents/Web Dev/Practice/index.html",
+			"settings":
+			{
+				"buffer_size": 252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".container{\n   display: flex;\n   flex-direction: row;\n   flex-wrap:wrap;\n   border:1px solid red;\n   align-items:center;\n}\n\n.item{\n   background-color: red;\n   height:10%;\n   width:40%;\n   border:1px solid purple;\n}  ",
+			"file": "/C/Users/Jonathan/Documents/Web Dev/Practice/style.css",
+			"file_size": 228,
+			"file_write_time": 130866260218781356,
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"toggle op",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"TOGGLE SI",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"CONFlict",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"conflict",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"conflic",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"evernote",
+				"Evernote Settings"
+			],
+			[
+				"jekyll",
+				"Jekyll: New post"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"confli",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"w3c",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"git conf",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"git confl",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/css/main.css",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/index.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/en/index.html",
+		"/C/Users/Jonathan/Documents/CSS Zen Garden/Mid Century Modern/index (1).html",
+		"/C/Users/Jonathan/Documents/CSS Zen Garden/Mid Century Modern/style.css",
+		"/C/Users/Jonathan/Downloads/index (1).html",
+		"/C/Users/Jonathan/Downloads/style.css",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/nl/contact.php",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/fr/contact.php",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/en/contact.php",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/fr/contact.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/bin/contact_me.php",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/nl/index.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/en/contact.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/en/lifecoaching.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/en/overmij.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/fr/index.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/fr/lifecoaching.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/fr/overmij.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/nl/contact.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/nl/lifecoaching.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/nl/overmij.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/en/index.php",
+		"/C/Users/Jonathan/Downloads/02 - Cancer Test.srt",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/js/contact_me.js",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/js/scripts.js",
+		"/C/Users/Jonathan/Documents/take this back",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/lifecoaching.html",
+		"/C/Users/Jonathan/Documents/Bootstrap Tutorial/bootstrap-template.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/overmij.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/jsquery.js",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/contact.html",
+		"/C/Users/Jonathan/Documents/Vivre Aimer/VivreAimer/overmij",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/SublimeEvernote.sublime-settings",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/Jekyll/README.md",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/Jekyll.sublime-settings",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jonathan/Documents/Javascript Training/JSONExample/jquery.js",
+		"/C/Users/Jonathan/Documents/Javascript Training/JSONExample/index.html",
+		"/C/Users/Jonathan/Documents/Javascript Training/New Text Document.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"<project>",
+			"vivreaimer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"jmitnik@gmail.com",
+			"contact.php",
+			"contact.html",
+			"index.php",
+			"<a href=\"#\" target=\"_blank\"><i class=\"fa fa-envelope-o\"></i> #@gmail.com</a>",
+			"<a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin-square\"></i> Linkedin</a>",
+			"<a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook-square\"></i> Facebook</a>",
+			"href=\"css",
+			"afb4.jpg",
+			"afb0.JPG",
+			"afb0.jpg",
+			"afb2.jpg",
+			"afb1.jpg",
+			"motivation.jpg",
+			"s",
+			"slider",
+			"JPG",
+			"../",
+			"contact.php",
+			"sm",
+			"NAVBAR-brand",
+			"button",
+			">\n",
+			"button",
+			"\"> ",
+			"<h3",
+			"h3",
+			"h4",
+			"h3",
+			"collapse",
+			"\">\n",
+			"adsfsadfas",
+			"ewrtwet",
+			"asfdasfd",
+			"asdfsfds",
+			"WEwe",
+			"<h3>",
+			"h3",
+			"eerew",
+			"box",
+			"cold",
+			"col",
+			"3",
+			"\"></",
+			"offset3",
+			"\"></",
+			"div",
+			"    <",
+			"3",
+			"col",
+			"-->\n",
+			"col-md",
+			"col",
+			"2",
+			"3",
+			"p",
+			"doc",
+			"dark",
+			"doc",
+			"15px",
+			"20px",
+			"25px",
+			"<a",
+			"a",
+			"<a cla",
+			"<a",
+			"<a>",
+			"a",
+			"NAVbar",
+			"nav",
+			"icon",
+			"t",
+			"icon",
+			"FF0A85",
+			"inline",
+			"slider1_container",
+			"}\n",
+			"blockquote ",
+			"color",
+			"the",
+			"border",
+			"background-color: transparent;\n  border:0px;\n  margin-bottom: 0px;\n  border-bottom: 1px solid #EB0177;\n  font-family: 'Nunito', serif;\n  font-size:18px;\n  color:#9C0063;",
+			"background",
+			"border",
+			"fbfbfb",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vivreetaimercoaching@gmail.com",
+			"contact.php",
+			"<a href=\"mailto:vivreetaimercoaching@gmail.com\" target=\"_blank\"><i class=\"fa fa-envelope-o\"></i> vivreetaimercoaching@gmail.com</a>",
+			"<a href=\"https://www.linkedin.com/pub/patricia-quessada/18/a83/199\" target=\"_blank\"><i class=\"fa fa-linkedin-square\"></i> Linkedin</a>",
+			"<a href=\"https://www.facebook.com/patricia.quessada.9\" target=\"_blank\"><i class=\"fa fa-facebook-square\"></i> Facebook</a>",
+			"href=\"../css",
+			"2afb4.jpg",
+			"2afb0.JPG",
+			"2afb0.jpg",
+			"2afb2.jpg",
+			"2afb1.jpg",
+			"motivation2.jpg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jonathan/Documents/Web Dev/Practice/index.html",
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Jonathan/Documents/Web Dev/Practice/style.css",
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"contact_me",
+				"bin/contact_me.php"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"css/main",
+				"css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
