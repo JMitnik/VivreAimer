@@ -4,28 +4,28 @@
         $email = $_POST['email'];
         $message = $_POST['message'];
         $human = intval($_POST['human']);
-        $from = 'Vivre et Aimer'; 
-        $to = 'vivreetaimercoaching@gmail.com'; 
+        $from = 'Vivre et Aimer';
+        $to = 'vivreetaimercoaching@gmail.com';
         $subject = 'Vivre et Aimer Message from '.$name;
-        
+
         $body = "From: $name\n E-Mail: $email\n Message:\n $message";
- 
+
         // Check if name has been entered
         if (!$_POST['name']) {
             $errName = 'Please enter your name';
         }
-        
+
         // Check if email has been entered and is valid
         if (!$_POST['email'] || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
             $errEmail = 'Please enter a valid email address';
         }
-        
+
         //Check if message has been entered
         if (!$_POST['message']) {
             $errMessage = 'Please enter your message';
         }
         //Check if simple anti-bot test is correct
- 
+
 // If there are no errors, send the email
 if (!$errName && !$errEmail && !$errMessage ) {
     if (mail ($to, $subject, $body, $from)) {
@@ -87,12 +87,12 @@ if (!$errName && !$errEmail && !$errMessage ) {
       <a class="navbar-brand" href="index.html"><img src='../css/fleurdelis.png' heigth='20px' width='20px'></a>
       </div><!--/.navbar head-->
 
-    
+
     <div class="collapse navbar-collapse" id = "viv-navbar">
-      <ul class="nav navbar-nav"> 
+      <ul class="nav navbar-nav">
         <li class="current"><a href="index.html">Home</a></li>
         <li class="divider-vertical"></li>
-        <li><a href="lifecoaching.html">Lifecoaching</a></li>
+       <li><a href="lifecoaching.html">Life Coaching</a></li>
         <li><a href="overmij.html">About me</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
@@ -136,11 +136,11 @@ if (!$errName && !$errEmail && !$errMessage ) {
    <div class="container-fluid main-content doc">
  <!-- Contacts -->
  <div id="contacts" style="margin-top:20px;">
-   <div class="row">  
+   <div class="row">
      <!-- Alignment -->
   <div class="col-sm-offset-3 col-sm-6">
      <!-- Form itself -->
-          
+
 <form class="form-horizontal" role="form" method="post" action="contact.php">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
@@ -170,7 +170,7 @@ if (!$errName && !$errEmail && !$errMessage ) {
     </div>
     <div class="form-group">
         <div class="col-sm-10 col-sm-offset-2">
-            <?php echo $result; ?>    
+            <?php echo $result; ?>
         </div>
     </div>
 </form>
@@ -178,8 +178,8 @@ if (!$errName && !$errEmail && !$errMessage ) {
       </div>
     </div>
    </div>
-  
-  
+
+
  <!-- JS FILES -->
 
 
@@ -196,10 +196,10 @@ if (!$errName && !$errEmail && !$errMessage ) {
           <div class="col-md-2 footer-info" >
             <a href="https://www.linkedin.com/pub/patricia-quessada/18/a83/199" target="_blank"><i class="fa fa-linkedin-square"></i> Linkedin</a>
           </div>
-          <div class="col-md-3 footer-info">
+          <div class="col-md-5 footer-info">
             <a href="mailto:vivreetaimercoaching@gmail.com" target="_blank"><i class="fa fa-envelope-o"></i> vivreetaimercoaching@gmail.com</a>
           </div>
-          <div class="col-md-2 footer-info col-md-offset-1">
+          <div class="col-md-2 footer-info">
             <a href="#"><i class="fa fa-mobile"></i> 06&#45;39217820</a>
           </strong></div>
         </div>
